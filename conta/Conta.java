@@ -1,4 +1,4 @@
-package conta-bancaria;
+package conta;
 
 public class Conta {
 
